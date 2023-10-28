@@ -1,1 +1,2 @@
-# Odata - $apply Query Parameter
+# Odata - Usage of $apply Query Parameter in detail.
+
